@@ -2,3 +2,4 @@ sss
 wwww
 test delete B
 test delete B3
+test modify and delete file3
